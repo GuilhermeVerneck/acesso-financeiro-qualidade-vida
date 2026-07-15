@@ -1,0 +1,8 @@
+Repositório de dados do artigo 'O Impacto do Acesso Financeiro na Qualidade de Vida'. 
+
+1. O arquivo 'Base_Pronta_Artigo.csv' contém a amostra final de 57.982 domicílios utilizada na regressão; 
+2. O arquivo 'Script_Artigo_Econometria.R' contém os códigos de extração, união (merge) dos microdados da POF 2017-2018 originais do IBGE e estimação do MQO com erros robustos (HC1). 
+
+Autor: Guilherme da Rocha Verneck Braz - 176497
+
+## O usuário deve inserir o caminho para MORADOR.txt e MORADOR_QUALI_VIDA.txt e também para os outputs (tabelas) caso queira executar o script na própria máquina. Devem ser inseridas nas seguintes linhas: 4, 15, 42, 63, 86. ##
